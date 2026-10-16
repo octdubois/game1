@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://btja7rx25lyyd"]
+
+[ext_resource type="Script" uid="uid://4joehmojx82o" path="res://scripts/Main.gd" id="1_wym84"]
+
+[node name="main" type="Node2D" unique_id=415672174]
+
+[node name="GridManager" type="Node" parent="." unique_id=1220824312]
+script = ExtResource("1_wym84")
+metadata/_custom_type_script = "uid://4joehmojx82o"
